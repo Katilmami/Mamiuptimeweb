@@ -1,0 +1,19 @@
+{
+  "name": "mamiuptime",
+  "version": "1.0.0",
+  "description": "mami",
+  "main": "mami.js",
+  "scripts": {
+    "start": "node mami.js"
+  },
+  "keywords": [
+    "node",
+    "mami.py"
+  ],
+  "author": "Mami",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.24.0"
+  }
+}
